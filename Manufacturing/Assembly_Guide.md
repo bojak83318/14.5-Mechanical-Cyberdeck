@@ -8,3 +8,6 @@
 - The AUO 14.5" screen uses a 40-pin I-PEX connector.
 - **Strain Relief:** Once the cable is seated, apply a small strip of **Kapton Tape** across the connector.
 - **Routing:** Thread the ribbon through the 'cable_clips' integrated into the chassis floor. This prevents the cable from touching the hot Pi 5 Active Cooler.
+
+## 🆘 Help
+If you encounter issues during assembly, refer to [Docs/Troubleshooting_and_Recovery.md](Docs/Troubleshooting_and_Recovery.md).
