@@ -20,4 +20,4 @@ module chassis() {
         translate([-1, 40, 5]) cube([10, 30.2, 7.2]); 
     }
 }
-chassis();
+difference() { chassis(); ventilation_array(); intake_mesh(); pi5_internal_mount(); }
