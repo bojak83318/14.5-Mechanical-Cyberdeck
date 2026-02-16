@@ -5,3 +5,5 @@ Power Controller,CYPD3176 BCR-PLUS,Infineon,1,Set to 5V
 Adapter,Framework HDMI Card,Framework,1,Expansion Card Gen3
 Switch,IRLZ44N MOSFET,Infineon,1,Logic Level Toggle
 Fasteners,M2 Heat-Set Inserts,Generic,20,3mm length
+"Compute","Raspberry Pi 5 (8GB)","Raspberry Pi","1","Main Brain"
+"Cooler","Pi 5 Active Cooler","Raspberry Pi","1","PWM Controlled Blower"
