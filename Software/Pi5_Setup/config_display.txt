@@ -1,0 +1,8 @@
+# Raspberry Pi 5 Video Config for AUO 14.5
+[all]
+hdmi_group=2
+hdmi_mode=87
+hdmi_cvt=2560 720 60 6 0 0 0
+hdmi_drive=2
+# Enable eDP over HDMI bridge
+dtoverlay=vc4-kms-v3d
