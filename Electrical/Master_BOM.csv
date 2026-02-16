@@ -1,0 +1,7 @@
+Category,Component,Manufacturer,Qty,Link/Note
+Display,AUO C145HAX01.1,AUO,1,2560x720 900nit
+Driver,AP2K1.71,Generic,1,eDP to HDMI/USB-C
+Power Controller,CYPD3176 BCR-PLUS,Infineon,1,Set to 5V
+Adapter,Framework HDMI Card,Framework,1,Expansion Card Gen3
+Switch,IRLZ44N MOSFET,Infineon,1,Logic Level Toggle
+Fasteners,M2 Heat-Set Inserts,Generic,20,3mm length
