@@ -1,9 +1,12 @@
-Category,Component,Manufacturer,Qty,Link/Note
-Display,AUO C145HAX01.1,AUO,1,2560x720 900nit
-Driver,AP2K1.71,Generic,1,eDP to HDMI/USB-C
-Power Controller,CYPD3176 BCR-PLUS,Infineon,1,Set to 5V
-Adapter,Framework HDMI Card,Framework,1,Expansion Card Gen3
-Switch,IRLZ44N MOSFET,Infineon,1,Logic Level Toggle
-Fasteners,M2 Heat-Set Inserts,Generic,20,3mm length
-"Compute","Raspberry Pi 5 (8GB)","Raspberry Pi","1","Main Brain"
-"Cooler","Pi 5 Active Cooler","Raspberry Pi","1","PWM Controlled Blower"
+Category,Item,Spec,Quantity,Notes
+Compute,Raspberry Pi 5,8GB RAM,1,Main Brain
+Display,AUO 14.5" LCD,2560x720,1,C145HAX01.1
+Driver,eDP Controller,AP2K1.71,1,HDMI/USB-C Bridge
+Cooling,Pi 5 Active Cooler,Official Blower,1,PWM Controlled
+Cooling,Heat Spreader,1.5mm Alum Sheet,1,250mm x 100mm
+Power,BCR-PLUS,PD Sink,1,Negotiates 5V/5A
+IO,Framework Card,USB-C,1,For Hiveton Link
+IO,Framework Card,HDMI,1,For Video Input
+Fasteners,M3 Heat-Set Inserts,Brass 4.6mm,8,For Case Assembly
+Fasteners,M3 Screws,8mm Button Head,8,For Lid/Bottom
+Fasteners,M2.5 Standoffs,6mm Brass,4,For Pi 5 Mounting
